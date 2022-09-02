@@ -1,0 +1,15 @@
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\obj\Debug\net6.0\BilOpgave.csproj.AssemblyReference.cache
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\obj\Debug\net6.0\BilOpgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\obj\Debug\net6.0\BilOpgave.AssemblyInfoInputs.cache
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\obj\Debug\net6.0\BilOpgave.AssemblyInfo.cs
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\obj\Debug\net6.0\BilOpgave.csproj.CoreCompileInputs.cache
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\bin\Debug\net6.0\BilOpgave.exe
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\bin\Debug\net6.0\BilOpgave.deps.json
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\bin\Debug\net6.0\BilOpgave.runtimeconfig.json
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\bin\Debug\net6.0\BilOpgave.dll
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\bin\Debug\net6.0\BilOpgave.pdb
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\obj\Debug\net6.0\BilOpgave.dll
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\obj\Debug\net6.0\refint\BilOpgave.dll
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\obj\Debug\net6.0\BilOpgave.pdb
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\obj\Debug\net6.0\BilOpgave.genruntimeconfig.cache
+C:\Users\rasm3\OneDrive\Skrivebord\Bilforhandler\BilOpgave\obj\Debug\net6.0\ref\BilOpgave.dll
